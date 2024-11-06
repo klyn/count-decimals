@@ -1,4 +1,4 @@
-import { getPrecision } from "./get-precision/src";
+import { getPrecision } from "get-precision";
 
 /**
  * Return value of the countDecimals() function.
